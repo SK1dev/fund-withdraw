@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@chainlink/contracts": "^0.2.2",
+    "latest": "^0.2.0",
+    "n": "^8.0.0",
+    "npm": "^8.1.1",
+    "solc": "^0.8.9",
+    "truffle": "^5.4.16"
+  }
+}
